@@ -59,8 +59,8 @@ function App() {
             <Row>
                 <Col {...layout} >
                     <Typography>
-                        해당 페이지는 오픈소스를 참조해서 작성되었습니다.
-                        Developed by <a href="https://rajephon.dev">rajephon</a> / <a href="https://github.com/rajephon/douzone-payslip-viewer">깃허브 <GithubOutlined /></a>
+                        해당 페이지는 오픈소스를 fork해서 작성되었습니다.
+                        Developed by <a href="https://rajephon.dev">rajephon</a> / <a href="https://github.com/tnfhrnsss/douzone-payslip-viewer">깃허브 <GithubOutlined /></a> / <a href="https://github.com/tnfhrnsss/douzone-payslip-viewer/issues">버그 리포트</a>
                     </Typography>
                 </Col>
             </Row>
