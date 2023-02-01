@@ -31,7 +31,7 @@ function App() {
             return;
         }
         setDecryptedPaper(result);
-        console.log(result);
+        // console.log(result);
     };
 
     return (
@@ -60,7 +60,7 @@ function App() {
             <Row>
                 <Col {...layout} >
                     <Typography>
-                        해당 페이지는 오픈소스를 fork해서 작성되었습니다.
+                        해당 페이지는 오픈소스를 fork해서 작성되었습니다.<br/>
                         Developed by <a href="https://rajephon.dev">rajephon</a> / <a href="https://github.com/tnfhrnsss/douzone-payslip-viewer">깃허브 <GithubOutlined /></a> / <a href="https://github.com/tnfhrnsss/douzone-payslip-viewer/issues">버그 리포트</a>
                     </Typography>
                 </Col>
